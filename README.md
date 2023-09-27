@@ -1,4 +1,4 @@
-- 👋 Hey, Ich bin Sven
+- 👋 Hey, Ich bin Sven und bin gerade in meiner Zweitausbildung als Informatiker EFZ Applikationsentwicklung
 - 👀 Ich interessiere mich für Cloud-Lösungen und SaaS
 - 🌱 Ich bin gerade dabei mich mit der MS Azure Plattform zurechtzufinden
 - 💞️ Ich würde gerne an Projekten mitarbeiten, bei welchen ich meine C# Skills verbessern kann
